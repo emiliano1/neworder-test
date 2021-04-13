@@ -10,11 +10,10 @@ const useStyles = makeStyles((theme: Theme) =>
     root: {
       width: '100%',
       maxWidth: 1024,
-      maxHeight: "55vh",
+      maxHeight: "90vh",
       overflow: "auto",
       backgroundColor: theme.palette.background.paper,
       marginTop: "0",
-      boxShadow: "5px 10px #000",
       borderRadius: "0 0 10px 10px"
     },
   }),
